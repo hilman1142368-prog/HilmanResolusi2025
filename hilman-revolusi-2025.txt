@@ -5,3 +5,4 @@ hilman
 - ingin membuat online shop
 - kolaborasi dengan lebih banyak ekspertd
 - waalaikumsalam
+- belajar konsep dasar git dan github
