@@ -1,0 +1,4 @@
+hilman
+- ingin bisa bahasa kotlin dasar
+- ingin bisa konsep OOP menggunakan kotlin
+- bisa mengerti bahasa Inggris
