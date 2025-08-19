@@ -6,3 +6,4 @@ hilman
 - kolaborasi dengan lebih banyak ekspertd
 - waalaikumsalam
 - belajar konsep dasar git dan github
+- saya ingin belajar angular pada framework javascript
